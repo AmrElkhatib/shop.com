@@ -1,4 +1,4 @@
-import { slider } from "/Js/slider.js";
+import { slider } from "./utils/slider.js";
 const productRow = $.querySelectorAll(".product-row");
 
 const mainPrImage = $.querySelector(".main-product-img");
